@@ -31,6 +31,4 @@ public class ComparandoOperadores {
         if (numero1 <= numero2)
             System.out.printf("%d <= %d%n", numero1, numero2);
     }
-
-
 }
